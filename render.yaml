@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: backend-lab-01
+    runtime: node
+    plan: free
+    rootDir: Backend-Development-Fundamentals-main/lab-01
+    buildCommand: npm install
+    startCommand: npm start
+
+  - type: web
+    name: backend-lab-02
+    runtime: node
+    plan: free
+    rootDir: Backend-Development-Fundamentals-main/lab-02
+    buildCommand: npm install
+    startCommand: npm start
