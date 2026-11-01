@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 // GET /about - Name and section
 app.get("/about", (req, res) => {
     res.status(200).json({
-        name: "LATCHIPATRUNI CHARAN TEJA",
+        name: "S YUVARAJA REDDY",
         section: "CSE(QE) - 2B - 204"
     });
 });
