@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Name:** LATCHIPATRUNI CHARAN TEJA
-- **Registration Number:** 252U1R8045
+- **Name:** S YUVARAJA REDDY
+- **Registration Number:** 252U1R8090
 - **Section:** CSE(QE)-2B - 204
 
 **Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
