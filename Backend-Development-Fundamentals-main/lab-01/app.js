@@ -5,7 +5,7 @@ const app = express();
 
 // GET / - Home route
 app.get("/", (req, res) => {
-    res.status(200).send("Welcome to my LATCHIPATRUNI CHARAN TEJA server! The Server is running Succesfully");
+    res.status(200).send("Welcome to my S YUVARAJA REDDY server! The Server is running Succesfully");
 });
 
 // GET /about - Name and section
