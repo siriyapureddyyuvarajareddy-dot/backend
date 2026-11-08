@@ -5,6 +5,8 @@
 **Class:** B.Tech CSE(QE) – 2B  
 **Section:** S-13 204
 
+**Deployed Link:** https://backend-sjka.onrender.com
+
 ## Objective
 
 Turn the Lab 2 routes into a clean REST API with search, sorting, validation, correct status codes, and practise debugging common errors.
