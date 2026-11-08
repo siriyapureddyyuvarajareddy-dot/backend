@@ -18,3 +18,13 @@ services:
       - key: NODE_VERSION
         value: 20.18.0
 
+  - type: web
+    name: backend-lab-03
+    runtime: node
+    plan: free
+    rootDir: Backend-Development-Fundamentals-main/lab-03
+    buildCommand: npm install --build-from-source sqlite3
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
