@@ -6,7 +6,7 @@
 - **Registration Number:** 252U1R8090
 - **Section:** CSE(QE)-2B - 204
 
-**Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
+**Deployed link:** https://backend-lab-01-cs6o.onrender.com
 
 ## Objective
 
